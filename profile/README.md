@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://xerini.co.uk/images/xerini-logo.svg](https://xerini.co.uk/images/logos/xerini-logo-white.svg)" alt="Xerini" width="220"/>
+<img src="https://raw.githubusercontent.com/Xerini/.github/main/profile/logo.png" alt="Xerini" width="300"/>
 
 ### We build AI and data systems that actually work.
 
